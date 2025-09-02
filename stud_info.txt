@@ -1,0 +1,3 @@
+def addStudent(name , age):
+	print (f"student {name}, age {age}, added successfully.")
+
