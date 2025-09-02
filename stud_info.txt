@@ -1,0 +1,3 @@
+def deleteStudent(name):
+	print(f"student {name} deleted successfully.")
+
