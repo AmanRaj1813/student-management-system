@@ -1,3 +1,6 @@
+
+def deleteStudent(name):
+	print(f"student {name} deleted successfully.")
 def addStudent(name , age):
 	print (f"student {name}, age {age}, added successfully.")
 
